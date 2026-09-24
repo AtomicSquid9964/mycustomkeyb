@@ -14,3 +14,5 @@
 
 ## 🏁 Final Verdict & Next Steps
 The circuit design is officially complete, fully validated, and fabrication ready!. My next immediate step is to export the final Gerber manufacturing packages and submit my design files to the Hack Club KEEB grant portal!
+
+<img width="833" height="401" alt="{7222E391-39AA-4339-9FF8-1C1DBC88E80C}" src="https://github.com/user-attachments/assets/d3865d15-40ed-4489-89b0-8022064c2d98" />
