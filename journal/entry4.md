@@ -1,5 +1,8 @@
 # Entry 3: Finalizing Layout, Stabilizers, and Prepping for Routing
 
+#Keyboard Layout
+I made a layout in keyboard layout maker, then exported it as a json and used the keyboard plugin in kicad to quickly make a layout for me 
+
 # What i did
 Stabilizer Validation:Verified and locked in the placement of all four 2u stabilizer footprints (Backspace, Enter, Left Shift) and the Spacebar stabilizer layout. All footprints are centered with their switches.
  Component Grid: Completely finalized the physical grid layout for all 67-68 keys, diodes, and the top-right rotary encoder. Everything is cleared of structural boundaries.
